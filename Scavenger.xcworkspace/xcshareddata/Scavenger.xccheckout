@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>28002853-BFC0-4543-858F-8A9D6AE7659F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Scavenger</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>770E75FDC2BC104FC05D90990D22EF25A52BACE9</key>
+		<string>https://github.com/uchicago-mobi/jocelynzz-MPCS51030-Winter-2015-Project.git</string>
+		<key>CD9630C43EB1CCCB3940E18BF27BBE573D4156CD</key>
+		<string>https://bitbucket.org/kaiyi/wmb.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ios-final/Scavenger.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>770E75FDC2BC104FC05D90990D22EF25A52BACE9</key>
+		<string>../..</string>
+		<key>CD9630C43EB1CCCB3940E18BF27BBE573D4156CD</key>
+		<string>../../../wmb</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/uchicago-mobi/jocelynzz-MPCS51030-Winter-2015-Project.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>770E75FDC2BC104FC05D90990D22EF25A52BACE9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>770E75FDC2BC104FC05D90990D22EF25A52BACE9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>jocelynzz-MPCS51030-Winter-2015-Project</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CD9630C43EB1CCCB3940E18BF27BBE573D4156CD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>wmb</string>
+		</dict>
+	</array>
+</dict>
+</plist>

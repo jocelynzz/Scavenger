@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6A69E490-8403-4034-98C2-ACAB30B0546B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Scavenger</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CD9630C43EB1CCCB3940E18BF27BBE573D4156CD</key>
+		<string>https://bitbucket.org/kaiyi/wmb.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ios-final/Scavenger.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CD9630C43EB1CCCB3940E18BF27BBE573D4156CD</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/kaiyi/wmb.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CD9630C43EB1CCCB3940E18BF27BBE573D4156CD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CD9630C43EB1CCCB3940E18BF27BBE573D4156CD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>wmb</string>
+		</dict>
+	</array>
+</dict>
+</plist>

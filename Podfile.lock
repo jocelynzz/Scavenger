@@ -1,0 +1,16 @@
+PODS:
+  - Bolts (1.1.4)
+  - Parse (1.6.4):
+    - Bolts (~> 1.1)
+  - YALSideMenu (1.0)
+
+DEPENDENCIES:
+  - Parse
+  - YALSideMenu
+
+SPEC CHECKSUMS:
+  Bolts: dd9fb8433d67f5acc3b6b4d1379bbc5513d716c1
+  Parse: c2610f7a12ad0defc974803b819c4efe7746e6db
+  YALSideMenu: ac7f00b54de0eeb59aa0b670686b856b42b8b582
+
+COCOAPODS: 0.36.0.rc.1
